@@ -1,0 +1,365 @@
+CLUSTAL W (1.83) multiple sequence alignment
+
+
+Bacillus-anthracis                  ---NTATTGGAGAGTTTGATCCTGGCTCAGGATGAACGCTGGCGGCGTGC
+Bacillus-cereus                     ---TTATTGGAGAGTTTGATCCTGGCTCAGGATGAACGCTGGCGGCGTGC
+Bacillus-subtilis                   ---------GAGAGTTTGATCCTGGCTCAGGACGAACGCTGGCGGCGTGC
+Bacillus-halodurans                 TTTTTATCGGAGAGTTTGATCCTGGCTCAGGACGAACGCTGGCGGCGTGC
+Oceanobacillus-iheyensis            ---TTTATGGAGAGTTTGATCTTGGCTCAGGACGAACGCTGGCGGCGTGC
+Thermanoaerobacter-tengcongens      ---------GAGAGTTTGATCCTGGCTCAGGACGAACGCTGGCGGCGTGC
+Clostridium-acetobutyliticum        --------------------------------------------------
+Clostridium-perfringenes            ---------GAGAGTTTGATCCTGGCTCAGGATGAACGCTGGCGGCGTGC
+Clostridium-tetani                  --NNNNNNNGAGAGTTTGATCCTGGCTCAGGACGAACGCTGGCGGCGTGC
+                                                                                      
+
+Bacillus-anthracis                  CTAATACATGCAAGTCGAGCGAATGGA--------------TTAAGAGCT
+Bacillus-cereus                     CTAATACATGCAAGTCGAGCGAATGGA--------------TTAAGAGCT
+Bacillus-subtilis                   CTAATACATGCAAGTCGAGCGGACAGA--------------T-GGGAGCT
+Bacillus-halodurans                 CTAATACATGCAAGTCGAGCGGACCAA--------------A-GGGAGCT
+Oceanobacillus-iheyensis            CTAATACATGCAAGTCGAGCGCATGAAATTATTTGATTCTCTTCGGAGTT
+Thermanoaerobacter-tengcongens      CTAACACATGCAAGTCGAGCGGGCCTG-------------TCAAGGCGTT
+Clostridium-acetobutyliticum        --------------------------------------------------
+Clostridium-perfringenes            TTAACACATGCAAGTCGAGCGA---TG----------------AAGTTTC
+Clostridium-tetani                  TTAACACATGCAAGTCGAGCGA---TG----------------AAGCTTC
+                                                                                      
+
+Bacillus-anthracis                  -TGCTCTTATGAAGTTAGCGGCGGACGGGTGAGTAACAC-GTGGGTAACC
+Bacillus-cereus                     -TGCTCTTATGAAGTTAGCGGCGGACGGGTGAGTAACAC-GTGGGTAACC
+Bacillus-subtilis                   -TGCTCCC-TGATGTTAGCGGCGGACGGGTGAGTAACAC-GTGGGTAACC
+Bacillus-halodurans                 -TGCTCCT-AGAGGTTAGCGGCGAACGGGTGAGTAACAC-GTGGGCAACC
+Oceanobacillus-iheyensis            -GACGATAATGGAATGAGCGGCGGACGGGTGAGTAACAC-GTAGGCAACC
+Thermanoaerobacter-tengcongens      ATGTTTTGGCAGGTTAAGCGGCGGACGGGTGAGTAACGC-GTGAGCAACC
+Clostridium-acetobutyliticum        ----------------AGCGGCGGACGGGTGAGTAACAC-GTGGGTAACC
+Clostridium-perfringenes            CTTCGGGAAACGGATTAGCGGCGGACGGGTGAGTAACAC-GTGGGTAACC
+Clostridium-tetani                  CTTCGGGAAGTGGATTAGCGGCGGACGGGTGAGTAACACAGTGGGCAACC
+                                                    ******* ************* * **  * ****
+
+Bacillus-anthracis                  TGCCCATAAGACTGGGATAACTCCGGGAAACCGGGGCTAATACCGGATAA
+Bacillus-cereus                     TGCCCATAAGACTGGGATAACTCCGGGAAACCGGGGCTAATACCGGATAA
+Bacillus-subtilis                   TGCCTGTAAGACTGGGATAACTCCGGGAAACCGGGGCTAATACCGGATGG
+Bacillus-halodurans                 TGCCTGTAAGACTGGGATAACATCGAGAAATCGGTGCTAATACCGGATAA
+Oceanobacillus-iheyensis            TGCCTGTAAGACTGGGATAACTCGTGGAAACGCGAGCTAATACCGGATAA
+Thermanoaerobacter-tengcongens      TACCCTTGAGACAGGGATAACCCTGGGAAACCGGGGCTAATACCTGATAT
+Clostridium-acetobutyliticum        TGCCTCATAGAGGGGAATAGCCTTCCGAAAGGAAGATTAATACCGCATAA
+Clostridium-perfringenes            TGCCTCATAGAGTGGAATAGCCTTCCGAAAGGAAGATTAATACCGCATAA
+Clostridium-tetani                  TGCCTCAAAGAGGGGAATAGCCCTCCGAAAGGAGGATTAATACCGCATAA
+                                    * **    ***  ** *** *     ****       *******  **  
+
+Bacillus-anthracis                  CATT-TTGAACCGCATGGTTCGAAATTGAAAGGCGGCTTCGGCTGTCACT
+Bacillus-cereus                     CATT-TTGAACCGCATGGTTCGAAATTGAAAGGCGGCTTCGGCTGTCACT
+Bacillus-subtilis                   TTGT-TTGAACCGCATGGTTCAAACATAAAAGGTGGCTTCGGCTACCACT
+Bacillus-halodurans                 TAAA-AAGAACTGCATGGTTCTTTTTTGAAAGATGGTTTCGGCTATCACT
+Oceanobacillus-iheyensis            CACT-TTTCATCTCCTGATGAGAAGTTGAAAGGCGGCTTTTGCTGTCACT
+Thermanoaerobacter-tengcongens      ACTC-TATTAGGGCATCCTGATGGAGGAAAGGGCGG-----GAAGCCGCT
+Clostridium-acetobutyliticum        GATTGTAATATCGCATGATATAGCAATTAAAGGAGT------AATCCGCT
+Clostridium-perfringenes            CGTTGAAAGATGGCATCATCATTCAACCAAAGGAGT------AATCCGCT
+Clostridium-tetani                  AGTTAAGGTTTCGCATGAAACTTTAACCAAAGGAGT------AATCTGCT
+                                                 * *            ** *  *             **
+
+Bacillus-anthracis                  TATGGATGGACCCGCGTCGCATTAGCTANTTGGTGAGGTAACGGCTCACC
+Bacillus-cereus                     TATGGATGGACCCGCGTCGCATTAGCTAGTTGGTGAGGTAACGGCTCACC
+Bacillus-subtilis                   TACAGATGGACCCGCGGCGCATTAGCTAGTTGGTGAGGTAACGGCTCACC
+Bacillus-halodurans                 TACAGATGGGCCCGCGGCGCATTAGCTAGTTGGTGGGGTAACGGCTCACC
+Oceanobacillus-iheyensis            TACAGATGGGCCTGCGGCGCATTAGCTAGTTGGTAAGGTAACGGCTTACC
+Thermanoaerobacter-tengcongens      CAAGGATGGGCTCGCGTCCCATCAGCTAGTTGGTGAGGTAACGGCTCACC
+Clostridium-acetobutyliticum        ATGAGATGGACCCGCGTCGCATTAGCTAGTTGGTGAGGTAACGGCTCACC
+Clostridium-perfringenes            ATGAGATGGACCCGCGGCGCATTAGCTAGTTGGTGGGGTAACGGCCTACC
+Clostridium-tetani                  TTGAGATGGGCCCGCGCCCCATTAGCTATTTGGTAAGGTAATGGCTTACC
+                                        ***** *  *** * *** ***** *****  ***** ***  ***
+
+Bacillus-anthracis                  AAGGCAACGATGC-GTAGCCGACCTGAGAGGGTGATCGGCCACACTGGGA
+Bacillus-cereus                     AAGGCAACGATGC-GTAGCCGACCTGAGAGGGTGATCGGCCACACTGGGA
+Bacillus-subtilis                   AAGGCAACGATGC-GTAGCCGACCTGAGAGGGTGATCGGCCACACTGGGA
+Bacillus-halodurans                 AAGGCGACGATGC-GTAGCCGACCTGAGAGGGTGATCGGCCACACTGGGA
+Oceanobacillus-iheyensis            AAGGCGACGATGC-GTAGCCGACCTGAGAGGGTGATCGGCCACACTGGGA
+Thermanoaerobacter-tengcongens      AAGGCTACGACGG-GTAGCCGGCCTGAGAGGGTGGTCGGCCACACTGGGA
+Clostridium-acetobutyliticum        AAGGCGACGATGC-GTAGCCGACCTGAGAGGGTGATCGGCCACATTGGGA
+Clostridium-perfringenes            AAGGCGACGATGCTGTAGCCGACCTGAGAGGGTGATCGGCCACATTGGGA
+Clostridium-tetani                  AAGGCGACGTAGG-GTAGCCGACCTGAGAGGGTGATCGGCCACATTGGAA
+                                    ***** ***  *  ******* ************ ********* *** *
+
+Bacillus-anthracis                  CTGAGACACGGCCCAGACTCCTACGGGAGGCAGCAGTAGGGAATCTTCCG
+Bacillus-cereus                     CTGAGACACGGCCCAGACTCCTACGGGAGGCAGCAGTNGGGAATCTTCCG
+Bacillus-subtilis                   CTGAGACACGGCCCAGACTCCTACGGGAGGCAGCAGTAGGGAATCTTCCG
+Bacillus-halodurans                 CTGAGACACGGCCCAGACTCCTACGGGAGGCAGCAGTAGGGAATCTTCCG
+Oceanobacillus-iheyensis            CTGAGACACGGCCCAGACTCCTACGGGAGGCAGCAGTAGGGAATCTTCCG
+Thermanoaerobacter-tengcongens      CTGAGACACGGCCCAGACTCCTACGGGAGGCAGCAGTGGGGAATCTTCCG
+Clostridium-acetobutyliticum        CTGAGACACGGCCCAGACTCCTACGGGAGGCAGCAGTGGGGAATATTGCA
+Clostridium-perfringenes            CTGAGACACGGCCCAGACTCCTACGGGAGGCAGCAGTGGGGAATATTGCA
+Clostridium-tetani                  CTGAGACACGGTCCAGACTCCTACGGGAGGCAGCAGTGGGGAATATTGCG
+                                    *********** ************************* ****** ** * 
+
+Bacillus-anthracis                  CAATGGACGAAAGTCTGACGGAGCAACGCCGCGTGAGTGATGAAGGCTNT
+Bacillus-cereus                     CAATGGACGAAAGTCTGACGGAGCAACGCCGCGTGAGTGATGAAGGCTTT
+Bacillus-subtilis                   CAATGGACGAAAGTCTGACGGAGCAACGCCGCGTGAGTGATGAAGGTTTT
+Bacillus-halodurans                 CAATGGACGAAAGTCTGACGGAGCAACGCCGCGTGAGTGATGAAGGTTTT
+Oceanobacillus-iheyensis            CAATGGACGAAAGTCTGACGGAGCAACGCCGCGTGAGTGATGAAGGTTTT
+Thermanoaerobacter-tengcongens      CAATGGGCGAAAGCCTGACGGAGCGACGCCGCGTGAGCGAAGAAGGCCTT
+Clostridium-acetobutyliticum        CAATGGGGGAAACCCTGATGCAGCAACGCCGCGTGAGTGATGACGGTCTT
+Clostridium-perfringenes            CAATGGGGGGAACCCTGATGCAGCAACGCCGCGTGAGTGATGAAGGTTTT
+Clostridium-tetani                  CAATGGGGGAAACCCTGACGCAGCAACGCCGCGTGGGTGATGAAGGTTTT
+                                    ******  * **  **** * *** ********** * ** ** **   *
+
+Bacillus-anthracis                  CGGGTCGTAAAACTCTGTTGTTAGGGAAGAACAAGTGCTAGTTGAATNAG
+Bacillus-cereus                     CGGGTCGTAAAACTCTGTTGTTAGGGAAGAACAAGTGCTAGTTGAATAAG
+Bacillus-subtilis                   CGGATCGTAAAGCTCTGTTGTTAGGGAAGAACAAGTACCGTTCGAATAGG
+Bacillus-halodurans                 CGGATCGTAAAACTCTGTTGTTAGGGAAGAACAAGTGCCGTTCGAA-AGG
+Oceanobacillus-iheyensis            CGGATCGTAAAACTCTGTTGTTAGGGAAGAACAAGTACTA-TAGTAACTG
+Thermanoaerobacter-tengcongens      CGGGTCGTAAAGCTCGATAGTGTGGGAAGAAGGGAT--------------
+Clostridium-acetobutyliticum        CGGATTGTAAAGCTCTGTCTTTAGGGACGATAA-----------------
+Clostridium-perfringenes            CGGATCGTAAAGCTCTGTCTTTGGGGAAGATAA-----------------
+Clostridium-tetani                  CGGATCGTAAAACCCTGTTTTCTGGGACGATAA-----------------
+                                    *** * ***** * *  *  *  **** **                    
+
+Bacillus-anthracis                  CTGGCACCTNGACGGTACCTAACCAGAAAGCCACGGCTAACTACGTGCCA
+Bacillus-cereus                     CTGGCACCTNGACGGTACCTNACCAGAAAGCCACGGCTAACTACGTGCCA
+Bacillus-subtilis                   GCGGTACCTTGACGGTACCTAACCAGAAAGCCACGGCTAACTACGTGCCA
+Bacillus-halodurans                 GCGGCACCTTGACGGTACCTAACGAGAAAGCCACGGCTAACTACGTGCCA
+Oceanobacillus-iheyensis            ATAGTACCTTGACGGTACCTAACCAGAAAGCCACGGCTAACTACGTGCCA
+Thermanoaerobacter-tengcongens      ----------GACGGTACCACAC--GAAAGCCCCGGCTAACTACGTGCCA
+Clostridium-acetobutyliticum        ---------TGACGGTACCTAAGGAGGAAGCCACGGCTAACTACGTGCCA
+Clostridium-perfringenes            ---------TGACGGTACCCAAGGAGGAAGCCACGGCTAACTACGTGCCA
+Clostridium-tetani                  ---------TGACGGTACCAGAGGAGGAAGCCACGGCTAACTACGTGCCA
+                                              *********  *   * ***** *****************
+
+Bacillus-anthracis                  GCAGCCGCGGTNATACGTAGGTGGCAAGCGTTATCCGGAATTATTGGGCG
+Bacillus-cereus                     GCAGCCGCGGTAATACGTAGGTGGCAAGCGTTATCCGGAATTNTTGGGCG
+Bacillus-subtilis                   GCAGCCGCGGTAATACGTAGGTGGCAAGCGTTNTCCGGAATTATTGGGCG
+Bacillus-halodurans                 GCAGCCGCGGTAATACGTAGGTGGCAAGCGTTGTCCGGAATTATTGGGCG
+Oceanobacillus-iheyensis            GCAGCCGCGGTAATACGTAGGTGGCAAGCGTTGTCCGGAATTATTGGGCG
+Thermanoaerobacter-tengcongens      GCAGCCGCGGTAAGACGTAGGGGGCGAGCGTTGTCCGGAGTTACTGGGCG
+Clostridium-acetobutyliticum        GCAGCCGCGGTAATACGTAGGTGGCAAGCGTTGTCCGGATTTACTGGGCG
+Clostridium-perfringenes            GCAGCCGCGGTAATACGTAGGTGGCGAGCGTTATCCGGATTTACTGGGCG
+Clostridium-tetani                  GCAGCCGCGGTAATACGTAGGTGGCAAGCGTTGTCCGGATTTACTGGGCG
+                                    *********** * ******* *** ****** ****** **  ******
+
+Bacillus-anthracis                  TAAAGCGCGCGCAGGTGGTTTCTTAAGTCTNATGTNAAAGCCCACGGCTN
+Bacillus-cereus                     TNAAGCGCGCGCAGGTGGTTTCTTAAGTCTGATGTGAAAGCCCACGGCTC
+Bacillus-subtilis                   TAAAGGGCTCGCAGGCGGTTTCTTAAGTCTGATGTGAAAGCCCCCGGCTC
+Bacillus-halodurans                 TAAAGCGCGCGCAGGCGGTCTCTTAAGTCTGATGTGAAAGCCCCCGGCTC
+Oceanobacillus-iheyensis            TAAAGCGCTCGCAGGCGGTTCTTTAAGTCTGATGTGAAATCTTACGGCTC
+Thermanoaerobacter-tengcongens      TAAAGGGCGCGTAGGCGGTTTAGCAAGTCAGGTGTAAAAGGCCACGGCTC
+Clostridium-acetobutyliticum        TAAAGGGAGCGTAGGTGGATATTTAAGTGGGATGTGAAATACTCGGGCTT
+Clostridium-perfringenes            TAAAGGGAGCGTAGGCGGATGATTAAGTGGGATGTGAAATACCCGGGCTC
+Clostridium-tetani                  TAAAGGGTGCGTAGGCGGATGCTTAAGTGAGATGTGAAATACCTAAGCTT
+                                    * *** *  ** *** **      ****    *** ***       *** 
+
+Bacillus-anthracis                  NACCGTGGAGGGTCATTGGAAACTGGGAGACTTGAGTGCNGAAGAGGAAA
+Bacillus-cereus                     AACCGTGGAGGGTCATTGGAAACTGGGAGACTTGAGTGCAGAAGAGGAAA
+Bacillus-subtilis                   AACCGGGGAGGGTCATTGGAAACTGGGGAACTTGAGTGCAGAAGAGGAGA
+Bacillus-halodurans                 AACCGGGGAGGGTCATTGGAAACTGGGAGACTTGAGTACAGAAGAGGAGA
+Oceanobacillus-iheyensis            AACCGTAAACGTGCATTGGAAACTGGGGAACTTGAGTGCAGAAGAGGAGA
+Thermanoaerobacter-tengcongens      AACCGTGGATATGCATCTGAAACTGCTGAGCTAGAGGGCAGGAGAGGGGA
+Clostridium-acetobutyliticum        AACTTGGGTGCTGCATTCCAAACTGGATATCTAGAGTGCAGGAGAGGAAA
+Clostridium-perfringenes            AACTTGGGTGCTGCATTCCAAACTGGTTATCTAGAGTGCAGGAGAGGAGA
+Clostridium-tetani                  AACTTAGGGGCTGCATTTCAAACTGGGCATCTAGAGTACAGGAGAGGGAA
+                                     **          ***   ******     ** ***  * * *****  *
+
+Bacillus-anthracis                  GTGGAATTCCATGTGTAGCGGTNAAATGCGTAGAG-ATATGGAGGAACAC
+Bacillus-cereus                     GTGGAATTCCATGTGTAGCGGTGAAATGCGTAGAG-ATATGGAGGAACAC
+Bacillus-subtilis                   GTGGAATTCCACGTGTNGCGGTGAAATGCGTAGAG-ATGTGGAGGAACAC
+Bacillus-halodurans                 GTGGAATTCCACGTGTAGCGGTGAAATGCGTAGAG-ATGTGGAGGAACAC
+Oceanobacillus-iheyensis            GTGGAATTCCACGTGTAGCGGTGAAATGCGTAGAG-ATGTGGAGGAACAC
+Thermanoaerobacter-tengcongens      GTGGAATTCCCGGTGTAGCGGTGAAATGCGTAGAT-ATCGGGAGGAATAC
+Clostridium-acetobutyliticum        GTAGAATTCCTAGTGTAGCGGTGAAATGCGTAGAG-ATTAGGAAGAATAC
+Clostridium-perfringenes            GTGGAATTCCTAGTGTAGCGGTGAAATGCGTAGAG-ATTAGGAAGAACAC
+Clostridium-tetani                  ACGGAATTCCTAGTGTAGCGGTGAAATGCGTAGAGGATTAGGAAGAACAC
+                                       *******  **** ***** ***********  **  *** *** **
+
+Bacillus-anthracis                  CAGTGGCGAAGGCGACTNTCTNGTCTGTAACTGACACTGAGGCGCGAAAG
+Bacillus-cereus                     CAGTGGCGAAGGCGACTNTCTGGTCTGTAACTGACACTGAGGCGCGAAAG
+Bacillus-subtilis                   CAGTGGCGAAGGCGACTCTCTGGTCTGTAACTGACGCTGAGGAGCGAAAG
+Bacillus-halodurans                 CAGTGGCGAAGGCGACTCTCTGGTCTGTAACTGACGCTGAGGCGCGAAAG
+Oceanobacillus-iheyensis            CAGTGGCGAAGGCGACTCTCTGGTCTGTAACTGACGCTGAGGAGCGAAAG
+Thermanoaerobacter-tengcongens      CAGTGGCGAAGGCGACTCCCTGGACTGGCCCTGACGCTGAGGCGCGAGAG
+Clostridium-acetobutyliticum        CAGTGGCGAAGGCGACTTTCTGGACTGTAACTGACACTGAGGCTCGAAAG
+Clostridium-perfringenes            CAGTGGCGAAGGCGACTCTCTGGACTGTAACTGACGCTGAGGCTCGAAAG
+Clostridium-tetani                  CAGTGGCGAAGGCGGTTTCCTGGACTGTAACTGACGCAGAGGCACGAAAG
+                                    **************  *  ** * ***   ***** * ****  *** **
+
+Bacillus-anthracis                  CGNNNNNAGCAAACAGGATTAGATACCCTGGTAGTCCACGCCGTAAACGA
+Bacillus-cereus                     CGTGGGGAGCAAACAGGATTAGATACCCTGGTAGTCCACGCCGTAAACGA
+Bacillus-subtilis                   CGTGGGGAGCGAACAGGATTAGATACCCTGGTAGTCCACGCCGTAAACGA
+Bacillus-halodurans                 CGTGGGGAGCAAACAGGATTAGATACCCTGGTAGTCCACGCCGTAAACGA
+Oceanobacillus-iheyensis            CGTGGGGAGCGAACAGGATTAGATACCCTGGTAGTCCACGCCGTAAACGA
+Thermanoaerobacter-tengcongens      CGTGGGGAGCAAACAGGATTAGATACCCTGGTAGTCCACGCTGTAAACGA
+Clostridium-acetobutyliticum        CGTGGGGAGCAAACAGGATTAGATACCCTGGTAGTCCACGCCGTAAACGA
+Clostridium-perfringenes            CGTGGGGAGCAAACAGGATTAGATACCCTGGTAGTCCACGCCGTAAACGA
+Clostridium-tetani                  CGTGGGTAGCAAACAGGATTAGATACCCTGGTAGTCCACGCCGTAAACGA
+                                    **     *** ****************************** ********
+
+Bacillus-anthracis                  TGAGTGCTAAGTGTTAGAGGGTTTCCGCCCTTTAGTGCTGAAGTTAACGC
+Bacillus-cereus                     TGAGTGCTAAGTGTTAGAGGGTTTCCGCCCTTTAGTGCTNAAGTTAACGC
+Bacillus-subtilis                   TGAGTGCTAAGTGTTAGGGGGTTTCCGCCCCTTAGTGCTGCAGT-AACGC
+Bacillus-halodurans                 TGAGTGCTAGGTGTTAGGGGTTTCGATGCCCTTAGTGCCGAAGTTAACAC
+Oceanobacillus-iheyensis            TGAGTGCTAGGTGTTAGGGGGTTTCCGCCCCTTAGTGCTGAAGTTAACGC
+Thermanoaerobacter-tengcongens      TGGGTGCTAGGTGT--GGGGAGCGGAAGCTTTCCGTGCCGTAGGAAACCC
+Clostridium-acetobutyliticum        TGAATACTAGGTGT-AGGGGTTGTCATGACCTCCGTGCCGCCGCTAACGC
+Clostridium-perfringenes            TGAATACTAGGTGT-GGGGGTT-TCAACACCTCCGTGCCGCCGCTAACGC
+Clostridium-tetani                  TGAATACTAGGTGT-AGGAGGGTCCAAC-CTTCTGTGCCGCAGTTAACAC
+                                    **  * *** ****  *  *           *  ****    *  *** *
+
+Bacillus-anthracis                  ATTAAGCACTCCGCCTGGGGAGTACGGCCGCAAGGCTGAAACTCAAAGGA
+Bacillus-cereus                     ATTAAGCACTCCGCCTNGGGAGTACGGCNGCAAGGCTGAAACTCAAAGGA
+Bacillus-subtilis                   ATTNAGCACTCCGCCTGGGGAGTACGGTCGCAAGACTGAAACTCAAAGGA
+Bacillus-halodurans                 ATTAAGCACTCCGCCTGGGGAGTACGACCGCAAGGTTGAAACTCAAAGGA
+Oceanobacillus-iheyensis            ATTAAGCACTCCGCCTGGGGAGTACGGCCGCAAGGCTGAAACTCAAAAGA
+Thermanoaerobacter-tengcongens      AATAAGCACCCCGCCTGGGGAGTACGGCCGCAAGGCTGAAACTCAAAGGA
+Clostridium-acetobutyliticum        ATTAAGTATTCCGCCTGGGGAGTACGGTCGCAAGATTAAAACTCAAAGGA
+Clostridium-perfringenes            ATTAAGTATTCCGCCTGGGGAGTACGGTCGCAAGATTAAAACTCAAAGGA
+Clostridium-tetani                  ATTAAGTATTCCGCCTGGGGAGTACGGTCGCAAGACTAAAACTCAAAGGA
+                                    * * ** *  ****** *********   *****  * ********* **
+
+Bacillus-anthracis                  AT-TGACGGGGNCC-GCACAAGCGGTGGAGCATGTNGTTTAATTCGAAGC
+Bacillus-cereus                     AT-TGACGGGGGCC-GCACAAGCGGTGGAGCATGTGGTTTAATTCGAAGC
+Bacillus-subtilis                   AT-TGACGGGGGCC-GCACAAGCGGTGGAGCATGTGGTTTAATTCGAAGC
+Bacillus-halodurans                 AT-TGACGGGGGCCCGCACAAGCAGTGGAGCATGTGGTTTAATTCGAAGC
+Oceanobacillus-iheyensis            AT-TGACGGGGGCCCGCACAAGCGGTGGAGCATGTGGTTTAATTCGAAGC
+Thermanoaerobacter-tengcongens      AT-TGACGGGGGCCCGCACAAGCGGTGGAGCATGTGGTTTAATTCGAAGC
+Clostridium-acetobutyliticum        AT-TGACGGGGGCCCGCACAAGCAGCGGAGCATGTGGTTTAATTCGAAGC
+Clostridium-perfringenes            ATCTGACGGGGACCCGCACAAGTAGCGGAGCATGTGGTTTAATTCGAAGC
+Clostridium-tetani                  AT-TGACGGGGGCCCGCACAAGCAGCGGAGCATGTGGTTTAATTCGAAGC
+                                    ** ******** ** *******  * ********* **************
+
+Bacillus-anthracis                  AACGCGAAGAACCTTACCAGGTNTTGAC-ATCCTC----TGACAACCCTA
+Bacillus-cereus                     AACGCGAAGAACCTTACCAGGTCTTGAC-ATCCTC----TGAAAACCCTA
+Bacillus-subtilis                   AACGCGAAGAACCTTACCAGGTCTTGAC-ATCCTC----TGACAATCCTA
+Bacillus-halodurans                 AACGCGAAGAACCTTACCAGGTCTTGAC-ATCCTT----TGACCACCCTA
+Oceanobacillus-iheyensis            AACGCGAAGAACCTTACCAGGTCTTGAC-ATCCTC----TGAACACTCTA
+Thermanoaerobacter-tengcongens      AACGCGAAGAACCTTACCAGGGCTTGAC-ATGCAGGTAGTAGCGAGCCGA
+Clostridium-acetobutyliticum        AACGCGAAGAACCTTACCTAGACTTGAC-ATCTCCT---GAATTACTCTG
+Clostridium-perfringenes            AACGCGAAGAACCTTACCTACACTTGAC-ATCCCTT---GCATTACTCT-
+Clostridium-tetani                  AACGCGAAGAACCTTACCTAGACTTGACCATCCTTC---TGACCTCTCT-
+                                    ******************     ***** **                *  
+
+Bacillus-anthracis                  GAGATAGG--GCTT-CTCCTTCGGGAG-CAGAGTG-ACAGGTGGTGCATG
+Bacillus-cereus                     GAGATAGG--GCTT-CTCCTTCGGGAG-CAGAGTG-ACAGGTGGTGCATG
+Bacillus-subtilis                   GAGATAGG--ACGT-CT---TCGGGGG-CAGAGTG-ACAGGTGGTGCATG
+Bacillus-halodurans                 GAGATAGG--GCTTTCCCCTTCGGGGGACAAAGTG-ACAGGTGGTGCATG
+Oceanobacillus-iheyensis            GAGATAGA--GTTT-TCCCTTCGGGGA-CAGAGTG-ACAGGTGGTGCATG
+Thermanoaerobacter-tengcongens      AAGGTGAGCGACCCTTTCTTATGGGAGGGAGCCTGCACAGGTGGTGCATG
+Clostridium-acetobutyliticum        TAATAGAGGAAG-----CCTTCGGGG--CAGGAAG-ACAGGTGGTGCATG
+Clostridium-perfringenes            TAATCGAGGAAATC---CCTTCGGGGA-CAAGGTG-ACAGGTGGTGCATG
+Clostridium-tetani                  TAACTGAGGAAGTC---CCTTCGGGGA-CAGGGAT-ACAGGTGGTGCATG
+                                     *                    ***    *      **************
+
+Bacillus-anthracis                  GTTGTCGTCAGCTNGTGTCGTGAGATGTTGGGTTNAGTCCCGCAACGAGC
+Bacillus-cereus                     GTTGTCGTCAGCTCGTGTCGTGAGATGTTGGGTTAAGTCCCGCAACGAGC
+Bacillus-subtilis                   GTTGTCGTCAGCTCGTGTCGTGAGATGTTGGGTTAAGTCCCGCAACGAGC
+Bacillus-halodurans                 GTTGTCGTCAGCTCGTGTCGTGAGATGTTGGGTTAAGTCCCGCAACGAGC
+Oceanobacillus-iheyensis            GTTGTCGTCAGCTCGTGTCGTGAGATGTTGGGTTAAGTCCCGCAACGAGC
+Thermanoaerobacter-tengcongens      GTTGTCGTCAGCTCGTGTCGTGAGATGTTGGGTTAAGTCCCGCAACGAGC
+Clostridium-acetobutyliticum        GTTGTCGTCAGCTCGTGTCGTGAGATGTTGGGTTAAGTCCCGCAACGAGC
+Clostridium-perfringenes            GTTGTCGTCAGCTCGTGTCGTGAGATGTTGGGTTAAGTCCCGCAACGAGC
+Clostridium-tetani                  GTTGTCGTCAGCTCGTGTCGTGAGATGTTGGGTTAAGTCCCGCAACGAGC
+                                    ************* ******************** ***************
+
+Bacillus-anthracis                  GCAACCCTTGATCTTAGTTGCCATCA--TTAAGTTGGGCACTCTAAGGTG
+Bacillus-cereus                     GCAACCCTTGATCTTAGTTGCCATCA--TTAAGTTGGGCACTCTAAGGTG
+Bacillus-subtilis                   GCAACCCTGGATCTTAGTTGCCAGCA--TTCAGTTGGGCACTCTAAGGTG
+Bacillus-halodurans                 GCAACCCTTGACCTTAGTTGCCAGCA--TTCAGTTGGGCACTCTAAGGTG
+Oceanobacillus-iheyensis            GCAACCCTTGATCTTAGTTGCCAGCA--TTAAGTTGGGCACTCTAAGGTG
+Thermanoaerobacter-tengcongens      GCAACCCCTGCCTCTAGTTGCCATCGGGTAAAGCCGGGCACTCTAGAGGG
+Clostridium-acetobutyliticum        GCAACCCTTATTGTTAGTTGCTACCA--TTAAGTTGAGCACTCTAGCGAG
+Clostridium-perfringenes            GCAACCCTTGTCGTTAGTTACTACCA--TTAAGTTGAGGACTCTAGCGAG
+Clostridium-tetani                  GCAACCCTTATTATTAGTTGCTACCA--TTAAGTTGAGCACTCTAATGAG
+                                    *******       ***** * * *   *  **  * * ******  * *
+
+Bacillus-anthracis                  ACTGCCGGTGACAAACCGGAGGAAGGTGGGGATGACGTCAAATCATCATG
+Bacillus-cereus                     ACTGCCGGTGACAAACCGGAGGAAGGTGGGGATGACGTNAAATCATCATG
+Bacillus-subtilis                   ACTGCCGGTGACAAACCGGAGGAAGGTGGGGATGACGTCAAATCATCATG
+Bacillus-halodurans                 ACTGCCGGTGACAAACCGGAGGAAGGTGGGGATGACGTCAAATCATCATG
+Oceanobacillus-iheyensis            ACTGCCGGTGACAAACCGGAGGAAGGTGGGGATGACGTCAAATCATCATG
+Thermanoaerobacter-tengcongens      ACTGCCGTCGACAAGACGGAGGAAGGTGGGGATGACGTCAAATCATCATG
+Clostridium-acetobutyliticum        ACTGCCCGGGTTAACCGGGAGGAAGGTGGGGATGACGTCAAATCATCATG
+Clostridium-perfringenes            ACTGCCTGGGTTAACCAGGAGGAAGGTGGGGATGACGTCAAATCATCATG
+Clostridium-tetani                  ACTGCCTGGGTGAACCAGGAGGAAGGTGGGGATGACGTCAAATCATCATG
+                                    ******   *  **   ********************* ***********
+
+Bacillus-anthracis                  CCCCTTATGACCT-NGGCTACACACGTGCTACAATGGACGGTACAAAGAG
+Bacillus-cereus                     CCCCTTATGACCT-GGGCTACACACGTGCTACAATGGACGGTACAAAGAG
+Bacillus-subtilis                   CCCCTTATGACCT-GGGCTACACACGTGCTACAATGGACAGAACAAAGGG
+Bacillus-halodurans                 CCCCTTATGACCT-GGGCTACACACGTGCTACAATGGATGGTACAAAGGG
+Oceanobacillus-iheyensis            CCCCTTATGACCT-GGGCTACACACGTGCTACAATGGATGGAACAAAGGG
+Thermanoaerobacter-tengcongens      CCCTATATGCCCT-GGGCCACACACGTGCTACAATGGCCGGTACAGAGGG
+Clostridium-acetobutyliticum        CCCCTTATG-TCTAGGGCTACACACGTGCTACAATGGCTGGTACAGAGAG
+Clostridium-perfringenes            CCCCTTATG-TGTAGGGCTACACACGTGCTACAATGGCTGGTACAGAGAG
+Clostridium-tetani                  CCCCTTATGCTCTAGGGCTACACACGTGCTACAATGGTCGGTACAGAGAG
+                                    ***  ****   *  *** ******************   * *** ** *
+
+Bacillus-anthracis                  CTGCAAGACCGCGAGGTGGAGCTAATCTCATAAAACCGTTCTCAGTTCGG
+Bacillus-cereus                     CTGCAAGACCGCGAGGTGGAGCTAATCTCATAAAACCGTTCTCAGTTCGG
+Bacillus-subtilis                   CAGCGAAACCGCGAGGTTAAGCCAATCCCACAAATCTGTTCTCAGTTCGG
+Bacillus-halodurans                 TTGCGAAGCCGCGAGGTGAAGCCAATCCCAGAAAGCCATTCTCAGTTCGG
+Oceanobacillus-iheyensis            AAGCGAACCCGCGAGGTCAAGCAAATCCCACAAAACCATTCTCAGTTCGG
+Thermanoaerobacter-tengcongens      AAGCGAAGGAGCGATCCGGAGCGAATCCCAAAAAGCCGGTCTCAGTTCGG
+Clostridium-acetobutyliticum        ATGCTAAACCGCGAGGTGGAGCCAAACTTT-AAAACCACTCTCAGTTCGG
+Clostridium-perfringenes            ATGCAATACCGCGAGGTGGAGCCAAACTTA-AAAACCAGTCTCAGTTCGG
+Clostridium-tetani                  ACGCAAGACCGCGAGGTGGAGCAAATCTCA-AAAACCGATCCCAGTTCGG
+                                      ** *    ****     *** ** *    *** *   ** ********
+
+Bacillus-anthracis                  ATTGTAGGCTGCAACTCGCCTNCATGAAGCTGGAATCGCTAGTAATCGCG
+Bacillus-cereus                     ATTGTAGGCTGCAACTCGCCTACATGAAGCTGGAATCGCTAGTAATCGCG
+Bacillus-subtilis                   ATCGCAGTCTGCAACTCGACTGCGTGAAGCTGGAATCGCTAGTAATCGCG
+Bacillus-halodurans                 ATTGCAGGCTGCAACTCGCCTGCATGAAGCCGGAATTGCTAGTAATCGCG
+Oceanobacillus-iheyensis            ATTGTAGGCTGCAACTCGCCTACATGAAGCCGGAATCGCTAGTAATCGCG
+Thermanoaerobacter-tengcongens      ATTGCAGGCTGCAACTCGCCTGCATGAAGGCGGAATCGCTAGTAATCGCG
+Clostridium-acetobutyliticum        ATTGTAGGCTGAAACTCGCCTACATGAAGCTGGAGTTGCTAGTAATCGCG
+Clostridium-perfringenes            ATTGTAGGCTGAAACTCGCCTACATGAAGCTGGAGTTACTAGTAATCGCG
+Clostridium-tetani                  ATTGCAGGCTGAAACTCGCCTGCATGAAGCCGGAGTTGCTAGTAATCGCA
+                                    ** * ** *** ****** ** * *****  *** *  *********** 
+
+Bacillus-anthracis                  GATCAGCATGCCGCGGTGAATACGTTCCNGGGCCTTGTACACACCGCCCG
+Bacillus-cereus                     GATCAGCATGCCGCGGTGAATACGTTCCCGGGCCTTGTACACACCGCCCG
+Bacillus-subtilis                   GATCAGCATGCCGCGGTGAATACGTTCCCGGGCCTTGTACACACCGCCCG
+Bacillus-halodurans                 GATCAGCATGCCGCGGTGAATACGTTCCCGGGCCTTGTACACACCGCCCG
+Oceanobacillus-iheyensis            GATCAGCATGCCGCGGTGAATACGTTCCCGGGCCTTGTACACACCGCCCG
+Thermanoaerobacter-tengcongens      GATCAGCATGCCGCGGTGAATGCGTTCCCGGGCCTTGTACACACCGCCCG
+Clostridium-acetobutyliticum        AATCAGAATGTCGCGGTGAATACGTTCCCGGGCCTTGTACACACCGCCCG
+Clostridium-perfringenes            AATCAGAATGTCGCGGTGAATACGTTCCCGGGTCTTGTACACACCGCCCG
+Clostridium-tetani                  AATCAGAATGTTGCGGTGAATACGTTCCCGGGCCTTGTACACACCGCCCG
+                                     ***** ***  ********* ****** *** *****************
+
+Bacillus-anthracis                  TCACACCACGAGAGTTTGTAACACCCGAAGTCGGNGG-------------
+Bacillus-cereus                     TCACACCACGAGAGTTTGTAACACCCGAAGTCGGTGG-------------
+Bacillus-subtilis                   TCACACCACGAGAGTTTGTAACACCC------------------------
+Bacillus-halodurans                 TCACACCACGAGAGTTTGTAACACCCGAAGTCGGTGGGGTAACCTTTTG-
+Oceanobacillus-iheyensis            TCACACCACGAGAGTTGGTAACACCCGAAGTCGGTGAGGTAACCGTAAG-
+Thermanoaerobacter-tengcongens      TCACACCACGAGAGTCTGCAACACCCGAAGCCGGTGGCCCAACCCGAAGA
+Clostridium-acetobutyliticum        TCACACCATGAGAGTTGGCAATACCCAAAGTTCGTGAGCTAACGCGTAA-
+Clostridium-perfringenes            TCACACCATGAGAGTTGGCAATACCCGAAGTCCGTGAGCTAAC-CGCAA-
+Clostridium-tetani                  TCACACCATGAGAGTTGGCAACACCCGAAGTCCGTGAGGTAAC-CGTAA-
+                                    ******** ******  * ** ****                        
+
+Bacillus-anthracis                  --------------------------------------------------
+Bacillus-cereus                     --------------------------------------------------
+Bacillus-subtilis                   --------------------------------------------------
+Bacillus-halodurans                 --GAGCCAGCCGCCTAAGGTGGGACAGATGATTGGGGTGAAGTCGTAACA
+Oceanobacillus-iheyensis            --GAGCCAGCCGCCGAAGGTGGGACTAATGATTGGGGTGAAGTCGTAACA
+Thermanoaerobacter-tengcongens      GGGAGGGAGCCGTCGAAGGTGGGGCAGATGATTGGGGTGAAGTCGTAACA
+Clostridium-acetobutyliticum        -GCAGGCAGCGACCTAAGGT-GGGTCAGCGATTGGGCATT----------
+Clostridium-perfringenes            -GGAGGCAGCGGCCGAAGGTAGGGTCAGCGATTGGGGTGAAGTCGTAACA
+Clostridium-tetani                  -GGAGCCAGCGGCCGAAGGTGGGGTTAATGATTGGGGTGAAGTCGTAACA
+                                                                                      
+
+Bacillus-anthracis                  --------------------------------------------------
+Bacillus-cereus                     --------------------------------------------------
+Bacillus-subtilis                   --------------------------------------------------
+Bacillus-halodurans                 AGGTAGCCGTATCGGAAGGTGCGGCTGGATCACCTCCTTTCTAAGCCGAA
+Oceanobacillus-iheyensis            AGGTAGCCGTATCGGAAGGTGCGGCTGGATCACCTCCTTTCT--------
+Thermanoaerobacter-tengcongens      AGGTAGCCGTACGGGAACGTGCGGCTGGATCACCTCCTT-----------
+Clostridium-acetobutyliticum        --------------------------------------------------
+Clostridium-perfringenes            AGGTAGCCGTAGGAGAACCTGCGGCTGGATCACCTCCTT-----------
+Clostridium-tetani                  AGGTAGCCGTAGGAGAACCTGCGGCTGGATCACCTCC-------------
+                                                                                      
+
+Bacillus-anthracis                  ---
+Bacillus-cereus                     ---
+Bacillus-subtilis                   ---
+Bacillus-halodurans                 TTC
+Oceanobacillus-iheyensis            ---
+Thermanoaerobacter-tengcongens      ---
+Clostridium-acetobutyliticum        ---
+Clostridium-perfringenes            ---
+Clostridium-tetani                  ---
+                                       
